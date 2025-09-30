@@ -1,6 +1,6 @@
 ## Olá, Eu sou Kalebe Gabriel 
 
-º 📚 Estudando: Análise e Desensolvimento de Sistema
+º  Recem formado em Análise e Desensolvimento de Sistema
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kalebe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
