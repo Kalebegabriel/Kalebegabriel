@@ -1,12 +1,20 @@
-# 👋 Olá, seja bem-vindo ao meu GitHub!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=200&section=header&text=Kalebe%20Gabriel%20|%20Full%20Stack%20Developer&fontSize=30&fontColor=fff&animation=fadeIn" />
 
-🎓 Recém-formado em **Análise e Desenvolvimento de Sistemas**  
-💻 Apaixonado por tecnologia e desenvolvimento web  
-🚀 Em busca da minha primeira oportunidade como desenvolvedor  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00c6ff&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+formação;Sempre+aprendendo+novas+tecnologias" />
+</h1>
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+# 👋 Olá, seja bem-vindo!
+
+🎓 Recém-formado em **Análise e Desenvolvimento de Sistemas**  
+💻 Focado em desenvolvimento **Full Stack**  
+🚀 Buscando oportunidade como desenvolvedor  
+
+---
+
+## 🛠️ Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Kalebe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kalebe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
