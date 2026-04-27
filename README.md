@@ -15,11 +15,12 @@
 ---
 
 ## 🛠️ Tecnologias
-<div style="display: inline_block"><br>
-  <img align="center" alt="Kalebe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kalebe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kalebe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kalebe-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<div align="center"><br>
+  <img align="center" alt="Kalebe-JS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
+  <img align="center" alt="Kalebe-HTML" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
+  <img align="center" alt="Kalebe-CSS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
+  <img align="center" alt="Kalebe-PHP" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg">
+  <img align="center" alt="Kalebe-TYPESCRIPT" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
 </div>
 
 ---
