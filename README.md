@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=200&section=header&text=Kalebe%20Gabriel%20|%20Full%20Stack%20Developer&fontSize=30&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=200&section=header&text=Kalebe%20Gabriel%20|%20Developer&fontSize=30&fontColor=fff&animation=fadeIn" />
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00c6ff&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+formação;Sempre+aprendendo+novas+tecnologias" />
