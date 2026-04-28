@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=200&section=header&text=Kalebe%20Gabriel%20|%20Developer&fontSize=30&fontColor=fff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00c6ff&height=200&section=header&text=Kalebe%20Gabriel%20|%20Full%20Stack%20Developer&fontSize=30&fontColor=fff&animation=fadeIn" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00c6ff&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+em+formação;Sempre+aprendendo+novas+tecnologias" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00c6ff&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack+em+formação;Sempre+aprendendo+novas+tecnologias" />
 </h1>
 
 ---
@@ -10,23 +10,23 @@
 
 🎓 Recém-formado em **Análise e Desenvolvimento de Sistemas**  
 💻 Focado em desenvolvimento **Full Stack**  
-🚀 Buscando oportunidade como desenvolvedor  
+🚀 Em busca da primeira oportunidade como **Desenvolvedor Full Stack**  
 
 ---
 
 ## 🛠️ Tecnologias
 <div align="center"><br>
-  <img align="center" alt="Kalebe-JS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
-  <img align="center" alt="Kalebe-HTML" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
-  <img align="center" alt="Kalebe-CSS" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
-  <img align="center" alt="Kalebe-PHP" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/PHP.svg">
-  <img align="center" alt="Kalebe-TYPESCRIPT" height="50" width="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
+  <img align="center" alt="Kalebe-JS" height="50" width="50" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Javascript.svg">
+  <img align="center" alt="Kalebe-HTML" height="50" width="50" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/HTML.svg">
+  <img align="center" alt="Kalebe-CSS" height="50" width="50" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/CSS.svg">
+  <img align="center" alt="Kalebe-PHP" height="50" width="50" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/PHP.svg">
+  <img align="center" alt="Kalebe-TYPESCRIPT" height="50" width="50" src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Dark/Typescript.svg">
 </div>
 
 ---
 
 ## 📫 Contato
-<div> 
+<div align="center"> 
   <a href="mailto:kalebe1998@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
