@@ -39,8 +39,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <a href="https://github.com/kalebe-gabriel">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kalebe-gabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalebe-gabriel&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/Kalebegabriel">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kalebegabriel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalebegabriel&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
