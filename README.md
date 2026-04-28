@@ -1,9 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:00c6ff&height=200&section=header&text=Kalebe%20Gabriel%20|%20Full%20Stack%20Developer&fontSize=30&fontColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:00c6ff&height=200&section=header&text=Kalebe%20Gabriel%20|%20Developer&fontSize=30&fontColor=fff"/>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00c6ff&size=25&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Desenvolvedor+Full+Stack+em+formação;Sempre+aprendendo+novas+tecnologias" />
+</h1>
 
 # 👋 Olá, eu sou o Kalebe Gabriel
 
 🎓 Formado em Análise e Desenvolvimento de Sistemas  
-💻 Desenvolvedor Full Stack em formação  
+💻 Desenvolvedor em formação  
 🚀 Em busca da primeira oportunidade na área  
 
 ---
