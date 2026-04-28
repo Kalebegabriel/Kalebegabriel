@@ -23,6 +23,21 @@
 
 ---
 
+## 🌐 Conecte-se comigo
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kalebe-gabriel/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar%20Agora-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kalebe1998@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kalebegabriel&show_icons=true&theme=tokyonight"/>
